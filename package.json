@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 {
   "dependencies": {
     "socket.io-client": "^2.3.0",
     "uuid": "^8.2.0"
   }
 }
+=======
+{
+  "dependencies": {
+    "socket.io-client": "^2.3.0",
+    "uuid": "^8.2.0"
+  }
+}
+>>>>>>> master
